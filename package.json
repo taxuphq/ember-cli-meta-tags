@@ -36,7 +36,7 @@
     "test:ember-compatibility": "ember try:each"
   },
   "dependencies": {
-    "ember-auto-import": "^2.10.0"
+    "ember-auto-import": "^2.10.0",
     "@glimmer/component": "^1.1.2",
     "ember-cli-babel": "^7.26.11",
     "ember-cli-head": "^2.0.0",
